@@ -1,0 +1,1 @@
+angular.module('sportsApp', ['sportsApp.core', 'sportsApp.services', 'sportsApp.routes']);
